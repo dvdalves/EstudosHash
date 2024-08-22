@@ -1,7 +1,7 @@
 ﻿using System.Security.Cryptography;
 using System.Text;
 
-namespace EstudosHash;
+namespace EstudosHash.Hash;
 
 public class Sha256
 {
